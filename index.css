@@ -3,9 +3,10 @@ main{
     margin: auto;
 }
 
-
-
 .story-img{
+    border: 1px solid black;
+    height:25em;
+    width:100%;
 }
 
 .story-text{
